@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya D
-- 👀 I’m interested in ...
+- 👀 I’m interested in New learnings
 - 🌱 I’m currently learning B-Tech(CSE)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ign:aditya_d____
 
 <!---
