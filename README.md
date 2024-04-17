@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadhanshetti" alt="adityadhanshetti" /></a> </p>
 
-- 🌱 I’m currently learning **React,Python**
+- 🌱 I’m currently learning **React,Data Structure Using C**
 
 - 📫 How to reach me **adityadhanshetti@gmail.com**
 
